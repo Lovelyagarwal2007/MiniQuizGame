@@ -1,2 +1,3 @@
 # MiniQuizGame
-this is mini quiz game in python
+This is mini quiz game in python
+Made by Lovely Agarwal
