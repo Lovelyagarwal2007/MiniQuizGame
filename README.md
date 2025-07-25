@@ -1,3 +1,3 @@
 # MiniQuizGame
-This is mini quiz game in python <br>
+This is mini quiz game project in python <br>
 Made by Lovely Agarwal
